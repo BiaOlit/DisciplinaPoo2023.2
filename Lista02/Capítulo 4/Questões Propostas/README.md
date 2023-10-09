@@ -29,6 +29,8 @@ encontra-se na tabela a seguir.</h4>
 | Até R$ 300,00       |          35%          |
 | Acima de R$ 300,00  |          15%          |
 
+----
+
 
 <h4> Q21P: Faça um programa que receba o preço de um produto e seu código de origem e mostre sua procedência.
 A procedência obedece à tabela a seguir.</h4>
